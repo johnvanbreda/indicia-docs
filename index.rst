@@ -3,12 +3,20 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+.. toctree::
+  :hidden:
+
+  introduction/index
+  administrating/index
+  help
+
 Welcome
 =======
 
 The Indicia manual is your place to find out all about the Indicia online 
 recording toolkit, whether you are still deciding if Indicia is the product for
-you, you need details on building websites or even developing the Indicia core.
+you, you need details on building websites or even want to start to help 
+developing the Indicia core.
 
 Introduction
 ------------
@@ -17,9 +25,9 @@ If you are still deciding whether to use Indicia or just want an overview of the
 project, have a look through our :doc:`introduction/index`.
 
 Administration
-------------
+--------------
 
-Find our how to :doc:`administrating/index`.
+Find out how to :doc:`install and administer Indicia websites </administrating/index>`.
 
 Building an online recording website
 ------------------------------------
@@ -34,6 +42,5 @@ Indices and tables
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
 

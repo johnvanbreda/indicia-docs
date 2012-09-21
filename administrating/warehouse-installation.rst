@@ -1,5 +1,7 @@
+.. index:: Installation - Warehouse 
+
 Installing the Indicia warehouse
-================================
+################################
 
 This guide is a quick summary of the steps required to install the Indicia 
 Warehouse. You don't have to install the Warehouse to use Indicia if you are 
@@ -21,7 +23,7 @@ http://www.youtube.com/watch?v=wSfRJK9q2gs. The steps are similar for Windows.
 .. _install-postgres:
 
 Install PostgreSQL and PostGIS
-------------------------------
+==============================
 
 First, install the PostgreSQL database server and the PostGIS extension for your 
 operating system. For downloads and more information see 
@@ -88,7 +90,7 @@ functionality: ::
 .. _install-php:
 
 Install PHP and a web server
-----------------------------
+============================
 
 If you are installing on Windows, then you will typically want to use IIS 
 (Internet Information Services) or Apache as your web server software. For other
