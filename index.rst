@@ -21,6 +21,9 @@ Administration
 
 Find our how to :doc:`administrating/index`.
 
+Building an online recording website
+------------------------------------
+
 Getting Help
 ------------
 
