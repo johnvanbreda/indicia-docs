@@ -6,7 +6,7 @@
 .. toctree::
   :hidden:
 
-  introduction/index
+  introduction/brief-intro
   administrating/index
   help
 
@@ -22,7 +22,7 @@ Introduction
 ------------
 
 If you are still deciding whether to use Indicia or just want an overview of the 
-project, have a look through our :doc:`introduction/index`.
+project, :doc:`start here <introduction/brief-intro>`.
 
 Administration
 --------------
