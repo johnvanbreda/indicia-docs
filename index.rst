@@ -7,6 +7,7 @@
   :hidden:
 
   introduction/brief-intro
+  site-building/building-your-site
   administrating/index
   help
 
@@ -31,6 +32,8 @@ Find out how to :doc:`install and administer Indicia websites </administrating/i
 
 Building an online recording website
 ------------------------------------
+
+Learn how to go about :doc:`building a site using Indicia <site-building/building-your-site>`.
 
 Getting Help
 ------------

@@ -49,6 +49,7 @@ You might like to
   Read the faqs <faqs>
   Find out about some sites built using Indicia <site-gallery>
   Take a look at screenshots <screenshots>
+  Learn about the technologies that Indicia depends on <technology>
 
 
 
