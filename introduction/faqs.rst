@@ -61,8 +61,8 @@ How do I report a bug?
 ----------------------
 
 First, you need to have a Google account. Once you have that set up, go to 
-`http://code.google.com/p/indicia/issues/list`_ and click the New Issue link 
-near the top. Please take care to fill in all the details you can about how to 
-reproduce the bug.
+`the Issues list <http://code.google.com/p/indicia/issues/list>`_ and click the 
+**New Issue** link near the top. Please take care to fill in all the details you
+can about how to reproduce the bug.
 
 

@@ -89,11 +89,14 @@ well as add some instructions to the upload button:
 
   <?php
   global $indicia_templates;
-  $indicia_templates['file_box_initial_file_info'] = '<div id="{id}" class="ui-widget-content ui-corner-all photo">'.
+  $indicia_templates['file_box_initial_file_info'] = 
+      '<div id="{id}" class="ui-widget-content ui-corner-all photo">'.
       '<div class="progress"><div class="progress-bar" style="width: {imagewidth}px"></div>'.
       '<div class="progress-percent"></div></div><span class="photo-wrapper"></span></div>';
-  $indicia_templates['file_box'] = '<fieldset class="ui-corner-all">\n<legend>{caption}</legend>\n{uploadSelectBtn}&nbsp;'.
-      '<span class="tip">You may upload up to four images of each species (max size per image of 4mb)</span>'.
+  $indicia_templates['file_box'] = 
+    '<fieldset class="ui-corner-all">\n<legend>{caption}</legend>\n{uploadSelectBtn}&nbsp;'.
+      '<span class="tip">'.
+      'You may upload up to four images of each species (max size per image of 4mb)</span>'.
       '<div class="filelist"></div>{uploadStartBtn}</fieldset>';
 
 Developers of prebuilt forms can also create a file in the templates folder 

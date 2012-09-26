@@ -3,14 +3,6 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-.. toctree::
-  :hidden:
-
-  introduction/brief-intro
-  site-building/building-your-site
-  administrating/index
-  help
-
 Welcome
 =======
 
@@ -23,7 +15,7 @@ Introduction
 ------------
 
 If you are still deciding whether to use Indicia or just want an overview of the 
-project, :doc:`start here <introduction/brief-intro>`.
+project, :doc:`start here </introduction/introduction>`.
 
 Administration
 --------------
@@ -33,17 +25,10 @@ Find out how to :doc:`install and administer Indicia websites </administrating/i
 Building an online recording website
 ------------------------------------
 
-Learn how to go about :doc:`building a site using Indicia <site-building/building-your-site>`.
+Learn how to go about :doc:`building a site using Indicia </site-building/building-your-site>`.
 
 Getting Help
 ------------
 
 There are various places you can :doc:`get help<help>`.
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`search`
 

@@ -17,8 +17,9 @@ perform the steps :ref:`install-postgres` and to check that the **pgsql** and
 **cURL** extensions are enabled for PHP as described in the section 
 :ref:`install-php`.
 
-There is a screencast of this installation process on a Mac available at 
-http://www.youtube.com/watch?v=wSfRJK9q2gs. The steps are similar for Windows.
+Here is a 
+`screencast of this installation process on a Mac <http://www.youtube.com/watch?v=wSfRJK9q2gs>`_.
+The steps are similar for Windows.
 
 .. _install-postgres:
 
@@ -131,16 +132,18 @@ folder under XAMPP/htdocs. Enter the following text into the file and save it:
   ?>
 
 Now go to a web browser, and enter the root of your webserver followed by 
-phpinfo.php (e.g http://localhost/phpinfo.php). The page you see should detail 
+phpinfo.php (for example http://localhost/phpinfo.php). The page you see should detail 
 your PHP configuration, and if you look down the page you should see that the 
 cURL and pgsql libraries are loaded.
 
-*Tip: If you have installed PHP 5.2.6 and the pgsql library won't load, this may 
-be because of a bug in this release of PHP making it incompatible with the 
-version of PostgreSQL you have installed. To fix this, you will need to replace 
-the file php_pgsql.dll in your PHP installation with the version from the 
-PHP 5.2.5 download, and also replace the file libpq.dll from your PostgreSQL 
-install folder with the one from this download. Another problem can occur when 
-loading the pgsql libraries for PHP on a Windows Apache server, because of the 
-paths not being correct. For more information on this issue see 
-http://stackoverflow.com/questions/551734/php-not-loading-php-pgsql-dll-on-windows.*
+.. tip::
+
+  If you have installed PHP 5.2.6 and the pgsql library won't load, this may 
+  be because of a bug in this release of PHP making it incompatible with the 
+  version of PostgreSQL you have installed. To fix this, you will need to replace 
+  the file php_pgsql.dll in your PHP installation with the version from the 
+  PHP 5.2.5 download, and also replace the file libpq.dll from your PostgreSQL 
+  install folder with the one from this download. Another problem can occur when 
+  loading the pgsql libraries for PHP on a Windows Apache server, because of the 
+  paths not being correct. For more information on this issue see 
+  http://stackoverflow.com/questions/551734/php-not-loading-php-pgsql-dll-on-windows.*

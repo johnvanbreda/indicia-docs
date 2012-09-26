@@ -37,7 +37,7 @@ source_suffix = '.rst'
 #source_encoding = 'utf-8-sig'
 
 # The master toctree document.
-master_doc = 'index'
+master_doc = 'contents'
 
 # General information about the project.
 project = u'Indicia'
@@ -81,7 +81,9 @@ exclude_patterns = ['_build']
 #show_authors = False
 
 # The name of the Pygments (syntax highlighting) style to use.
-pygments_style = 'pastie'
+pygments_style = 'sphinx'
+
+highlight_language = 'php'
 
 # A list of ignored prefixes for module index sorting.
 #modindex_common_prefix = []
@@ -183,13 +185,13 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'Indicia.tex', u'Indicia Documentation',
+  ('pdf-contents', 'Indicia.tex', u'Indicia Documentation',
    u'Indicia Team', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
 # the title page.
-#latex_logo = images/logo.png
+#latex_logo = /images/logo.png
 
 # For "manual" documents, if this is true, then toplevel headings are parts,
 # not chapters.
