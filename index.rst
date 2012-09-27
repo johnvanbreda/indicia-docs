@@ -1,15 +1,10 @@
-.. Indicia documentation master file, created by
-   sphinx-quickstart on Wed Sep 19 19:08:12 2012.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 Welcome
 =======
 
-The Indicia manual is your place to find out all about the Indicia online 
-recording toolkit, whether you are still deciding if Indicia is the product for
-you, you need details on building websites or even want to start to help 
-developing the Indicia core.
+The Indicia documentation website is your place to find out all about the 
+Indicia online recording toolkit, whether you are still deciding if Indicia is 
+the product for you, you need details on building websites or even want to start
+to help developing the Indicia core.
 
 Introduction
 ------------

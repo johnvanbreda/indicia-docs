@@ -1,7 +1,7 @@
 Building your site
 ##################
 
-Some introduction to building your site chapter.
+Some introduction to building your site section.
 
 .. toctree::
   :hidden:

@@ -1,4 +1,5 @@
-Welcome to the introductory area of the docs
+Introduction
+############
 
 .. toctree::
 
