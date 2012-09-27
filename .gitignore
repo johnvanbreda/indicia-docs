@@ -1,1 +1,4 @@
 /_build/
+*.pyc
+.DS_Store
+Thumbs.db
