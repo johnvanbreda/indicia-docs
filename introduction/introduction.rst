@@ -4,6 +4,12 @@ Overview
 What exactly is Indicia?
 ------------------------
 
+.. sidebar:: Highlights
+  
+  * Capture, map, report and verify wildlife records
+  * Complete flexibility
+  * Free and open source
+
 A toolkit that simplifies the construction of websites, Indicia supports 
 wildlife observation recording forms that are as simple or advanced as you need,
 also allowing photo upload, reporting, mapping and verification of the records. 
@@ -14,9 +20,9 @@ infrastructure and tools for rapidly developing online recording websites that
 fit your exact needs.
 
 Because Indicia allows complete flexibility in the data entry forms that can be
-created, it is suitable for public participation surveys targeted at school
-children right through to long-term monitoring projects performed by 
-professional surveyors. 
+created, it is suitable for anything from public participation surveys targeted
+at school children right through to structured long-term monitoring projects 
+performed by professional surveyors. 
 
 Conceived as part of the 
 `Open Air Laboratories (OPAL) <http://www.OPALexplorenature.org/>`_ and
@@ -27,9 +33,7 @@ community within the UK and Europe.
 Key Features
 ------------
 
-Some key features of Indicia:
-
-* Build any wildlife recording form to suit your survey's needs
+* Completely flexible - build any wildlife recording form to suit your survey's needs
 * Photo upload
 * Pick grid references from a Google, Bing or any other map layer so say goodbye
   to incorrectly transcribed grid references
@@ -41,8 +45,13 @@ Some key features of Indicia:
 * Easily download data as spreadsheets or NBN Exchange format
 * Access data via spatial web services direct from a GIS application or Google
   Earth.
-* Can be integrated into many existing websites or build a complete site using 
-  Indicia along with the power of `Drupal <http://drupal.org>`_.
 * Support for multi-lingual websites - build forms in any language or even 
   to support multiple languages.
-* All this with no software fees
+* Can be integrated into most existing websites or build a complete site using 
+  Indicia along with the power of `Drupal <http://drupal.org>`_.
+* Use Instant Indicia to provide a rapid installation of an online recording
+  website with simple configuration, whilst retaining the full flexibility of 
+  Indicia.
+* All this whilst free and open source no software fees and all developments on 
+  Indicia are provided to the community to benefit all.
+

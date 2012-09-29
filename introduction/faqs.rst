@@ -46,12 +46,34 @@ to make verification both simple and fast.
 Is Indicia supported?
 ---------------------
 
+Is there a mobile interface for Indicia?
+----------------------------------------
+
+There isn't a 
 What do I need to do to setup my own online recording site?
 -----------------------------------------------------------
 
 .. todo::
   Link to page about hosting options for warehouse, with minimum spec for server
   php etc
+
+How do I access the data held in Indicia?
+-----------------------------------------
+
+Because Indicia is a web application as opposed to a desktop application, the 
+way you access the data is different. There are many options available but 
+typically you will use one of the following:
+
+* Download the data in spreadsheet format
+* Download the data in NBN Exchange format
+* Directly access the data from a GIS or other mapping program such as Google 
+  Earth using web services.
+
+.. note::
+
+  It is possible to run powerful queries on the web-server itself so 
+  you don't even need to download the data to perform many basic analysis 
+  operations. 
 
 Can Indicia use a MySQL database?
 ---------------------------------
