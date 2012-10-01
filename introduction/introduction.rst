@@ -4,20 +4,25 @@ Overview
 What exactly is Indicia?
 ------------------------
 
+.. image:: ../images/jigsaw.jpg
+  :width: 500pt
+  :alt: Indicia provides the building pieces for online recording websites.
+
 .. sidebar:: Highlights
   
   * Capture, map, report and verify wildlife records
   * Complete flexibility
   * Free and open source
 
-A toolkit that simplifies the construction of websites, Indicia supports 
-wildlife observation recording forms that are as simple or advanced as you need,
-also allowing photo upload, reporting, mapping and verification of the records. 
-By providing these facilities via a comprehensive set of highly configurable 
-components, Indicia can be used to build diverse and unique recording sites.
-Indicai is not a fixed, off the shelf system, instead it provides a
-infrastructure and tools for rapidly developing online recording websites that 
-fit your exact needs.
+Indicia provides the pieces you need to build online biological recording 
+websites. A toolkit that simplifies the construction of websites, Indicia 
+supports wildlife observation recording forms that are as simple or advanced as 
+you need, also allowing photo upload, reporting, mapping and verification of the
+records. By providing these facilities via a comprehensive set of highly 
+configurable components, Indicia can be used to build diverse and unique 
+recording sites. Indicia is not a fixed, off the shelf system, instead it 
+provides a infrastructure and tools for rapidly developing online recording 
+websites that fit your exact needs.
 
 Because Indicia allows complete flexibility in the data entry forms that can be
 created, it is suitable for anything from public participation surveys targeted
