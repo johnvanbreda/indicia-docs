@@ -5,7 +5,7 @@ What exactly is Indicia?
 ------------------------
 
 .. image:: ../images/jigsaw.jpg
-  :width: 500pt
+  :width: 600px
   :alt: Indicia provides the building pieces for online recording websites.
 
 .. sidebar:: Highlights

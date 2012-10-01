@@ -66,6 +66,10 @@ Here are some files you may like to have available to import into the system:
 |            |   or *Single* for each transect, depending on the transect type.|
 |            | * **Sensitive**. A column containing *t* for sensitive sites    |
 |            |   and *f* for all others.                                       |
+|            | * **Primary habitat**. Set to one of the terms from the list of |
+|            |   habitats where the primary habitat is known.                  |
+|            | * **Secondary habitat**. Set to one of the terms from the list  |
+|            |   of habitats where the primary habitat is known.               |
 |            |                                                                 |
 |            | The exact column titles you use does not matter as long as you  |
 |            | remember which is which.                                        |

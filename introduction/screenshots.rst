@@ -5,7 +5,7 @@ Data entry
 ----------
 
 .. image:: ../images/screenshots/websites/irecord-species-grid.png
-  :width: 500pt
+  :width: 600px
   :alt: Inputting a list of records and photos
 
 Data entry in Indicia can be via any method that is appropriate to the survey, 
@@ -16,7 +16,7 @@ record. The grid handles resizing of images from within the browser meaning that
 photo upload times are drastically reduced.
 
 .. image:: ../images/screenshots/websites/irecord-map-picker.jpg
-  :width: 500pt
+  :width: 600px
   :alt: Selecting the grid square for the records
 
 Entering a grid reference for the records via a click on a map ensures that 
@@ -34,7 +34,7 @@ Reporting
 ---------
 
 .. image:: ../images/screenshots/websites/irecord-explore.png
-  :width: 500pt
+  :width: 600px
   :alt: The iRecord Explore page.
 
 Indicia allows synchronisation of the data between multiple reports, charts or 
@@ -46,7 +46,7 @@ filtered and sorted with the changes kept in synch with the map display. This
 example is from the iRecord Explore facility.
 
 .. image:: ../images/screenshots/websites/irecord-species-density-map.png
-  :width: 500pt
+  :width: 600px
   :alt: The iRecord summary report for species density.
 
 Maps can show aggregated information as well as simple records. Here a layer of
@@ -55,7 +55,7 @@ of species on iRecord. Obviously this is more reflective of recording effort at
 this stage rather than any real indication of species diversity.
 
 .. image:: ../images/screenshots/websites/irecord-grid-thumbnails.png
-  :width: 500pt
+  :width: 600px
   :alt: Grid including thumbnails of the record photos
 
 Many Indicia reporting requirements are met by the flexible report grid control.
@@ -63,13 +63,13 @@ Here the grid has been configured to include thumbnails of the photos associated
 with each record.
 
 .. image:: ../images/screenshots/websites/irecord-photo-lightbox.png
-  :width: 500pt
+  :width: 600px
   :alt: Zoomed in photo of *Bombus pascuorum*
 
 Clicking on a photo thumbnail in any grid zooms the photo for a closer look.
 
 .. image:: ../images/screenshots/websites/irecord-photo-gallery.png
-  :width: 500pt
+  :width: 600px
   :alt: Photo gallery
 
 The report grid control is flexible enough to be reconfigured as a photo
