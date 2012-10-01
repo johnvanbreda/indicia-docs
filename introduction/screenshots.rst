@@ -22,6 +22,13 @@ photo upload times are drastically reduced.
 Entering a grid reference for the records via a click on a map ensures that 
 transcription errors in grid references are a thing of the past.
 
+Entering a date
+
+Picking a species
+
+BDS showing species identification notes
+
+
 
 Reporting
 ---------
