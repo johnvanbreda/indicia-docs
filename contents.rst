@@ -7,4 +7,5 @@ Contents
   introduction/index
   site-building/building-your-site
   administrating/index
+  contributing/index
   help
