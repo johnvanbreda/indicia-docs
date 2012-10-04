@@ -45,6 +45,10 @@ All the above surveys capture useful data from the public, though of course it
 is possible to run a survey where the sole purpose is public engagement and the
 data is not the key focus.
 
+.. image:: ../images/screenshots/websites/ofs-pollinator-input.png
+  :width: 600px
+  :alt: Inputting pollinator survey records for Open Farm Sunday
+
 iRecord
 -------
 
@@ -83,7 +87,13 @@ British Dragonfly Society
 NatureSpot
 ----------
 
-NatureSpot provides an online recording portal for Leicestershire and Rutland.
+It’s also possible to use Indicia to build recording sites which are aimed at 
+enthusiasts, perhaps recording across a much wider taxonomic range or even 
+recording any taxon at all. An example of this is the 
+`NatureSpot <http://www.naturespot.org.uk>`_site which allows naturalists in 
+Leicestershire and Rutland to record all their sightings and photographs. This 
+site supports entry of lists of any species at a particular date and time along
+with photo upload, along with online data management and verification facilities.
 
 .. image:: ../images/screenshots/websites/naturespot-home.png
   :width: 600px
@@ -113,6 +123,9 @@ National Moth Night
 
 Recording Invasive Species Counts
 ---------------------------------
+
+Wildflowers Count
+-----------------
 
 SPIPOLL
 -------

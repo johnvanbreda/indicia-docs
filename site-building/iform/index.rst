@@ -6,3 +6,4 @@ The Indicia Forms module
 
   customising-page-functionality
   prebuilt-forms/index
+  example-setups/index

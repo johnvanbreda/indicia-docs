@@ -49,7 +49,15 @@ Is Indicia supported?
 Is there a mobile interface for Indicia?
 ----------------------------------------
 
-There isn't a 
+There isn't a generic approach to building mobile applications in Indicia at the
+present time, however Indicia provides an excellent platform for building mobile
+applications against since it provides the services required to store records, 
+lookup species names and report on the data that a mobile application requires.
+`PlantTracker <http://planttracker.naturelocator.org>`_ is a good example of a 
+mobile application written using Indicia as the platform for storing the 
+records, thereby benefitting from the reporting, verification and other data 
+management tools.
+
 What do I need to do to setup my own online recording site?
 -----------------------------------------------------------
 

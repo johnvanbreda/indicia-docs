@@ -1,3 +1,6 @@
+Contributing to the documentation
+#################################
+
 This is a placeholder for notes on how to contribute to the Indicia 
 documentation.
 

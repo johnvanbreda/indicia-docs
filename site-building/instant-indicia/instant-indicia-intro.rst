@@ -23,3 +23,7 @@ don’t know what Drupal or a content management system are yet, as the tutorial
 will explain these concepts in due course. Once installed, the basis of an 
 online recording site can be built simply by selecting from a number of 
 ready-made building blocks and performing a few configuration tasks.
+
+.. toctree::
+
+  features/index
