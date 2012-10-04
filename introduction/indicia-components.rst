@@ -15,18 +15,18 @@ which we will look at later, designed for use by people whose role it is to set
 up and configure the surveys that are being conducted.
 
 Because the database used by Indicia is fully able to handle geographic objects
-such as site boundaries, known as being spatially enabled, you can link the data
-in a warehouse easily to a GIS (Geographical Information System) application, 
-Google Earth or online map. However this does mean that the technology used on
-the warehouse may not run on a typical low-cost hosted website account. Don’t
-worry though as Indicia was designed with this in mind. The warehouse can run
-on a different web server to your recording website so it can be hosted 
-completely separately to your online recording website. A single warehouse 
-installation can support multiple online recording websites making it possible
-for organisations that do have the capacity to host a warehouse to share this
-resource with other organisations which don’t. For example in the following
-diagram the warehouse supports 3 online recording websites for various schemes 
-and societies (it could be many more).
+such as site boundaries, known as being *spatially enabled*, you can link the 
+data in a warehouse easily to a GIS (Geographical Information System) 
+application, Google Earth or online map. However this does mean that the 
+technology used on the warehouse may not run on a typical low-cost hosted 
+website account. Don’t worry though as Indicia was designed with this in mind. 
+The warehouse can run on a different web server to your recording website so it 
+can be hosted completely separately to your online recording website. A single 
+warehouse installation can support multiple online recording websites making it 
+possible for organisations that do have the capacity to host a warehouse to 
+share this resource with other organisations which don’t. For example in the 
+following diagram the warehouse supports 3 online recording websites for various
+schemes and societies (it could be many more).
 
 .. todo::
 

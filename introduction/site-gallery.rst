@@ -1,26 +1,29 @@
 Example sites built using Indicia
 #################################
 
-Before going any further, let's take a look at some example usages of Indicia to
-see what sort of websites can be built. 
+The best way to get a feel for what Indicia can do is to take a look at some 
+example websites built using Indicia. This list of sites is not comprehensive
+but does give a feel for the range of surveys that can be supported. Firstly, 
+we'll look through some examples which are aimed at engaging the public in 
+biological recording. These tend to have easy to use forms for capturing a 
+species selected from a limited list of target species, a date and place. 
+Normally the species involved will be very easily identified, or at least some 
+form of identification assistance is provided.
 
 BBC Breathing Places Ladybird Survey
 ------------------------------------
 
-Firstly, there are sites aimed at engaging the public in biological recording. 
-These tend to have simple forms for capturing a species selected from a limited
-list of target species, a date and place. Normally the species involved will be
-very easily identified, or at least some form of identification assistance is 
-provided as in the `BBC Breathing Places Ladybird Survey <http://www.bbc.co.uk/breathingplaces/ladybird-survey>`_:
+One example of this type of site is the 
+`BBC Breathing Places Ladybird Survey <http://www.bbc.co.uk/breathingplaces/ladybird-survey>`_:
 
 .. image:: ../images/screenshots/websites/bbc-ladybirds-species-picker.png
   :width: 600px
   :alt: Choosing a ladybird species on BBC Breathing Places
 
 Despite the fact that this survey was aimed squarely at schools and members of 
-the public who may have little identification skills, the assistance provided 
-ensures that some useful records are gathered. There is even a sibling ladybird
-parasite survey also on the BBC Breathing Places site!
+the public who may have little identification skills, the online assistance 
+provided ensures that many useful records are gathered. There is even a sibling 
+ladybird parasite survey also on the BBC Breathing Places site!
 
 Maach Mat!
 ----------
@@ -40,49 +43,47 @@ user interface available in German, French, English and Luxembourgish!
 Open Farm Sunday
 ----------------
 
+.. todo:: 
 
-All the above surveys capture useful data from the public, though of course it
-is possible to run a survey where the sole purpose is public engagement and the
-data is not the key focus.
+  Check name used Spotter Sheet
+
+During Open Farm Sunday 2012, farm visitors were offered the chance to 
+participate in a survey of potential pollinators or a simple "spotter sheet". 
+The former was designed in collaboration with scientists at the `Centre for 
+Ecology & Hydrology <http://www.ceh.ac.uk>`_ to ensure that the resultant data 
+could be used in subsequent analysis despite having been collected by unknown
+members of the public. The survey's results have been compared to results
+collected by trained volunteers during the event to provide useful data on the 
+accuracy of citizen science records. The online recording forms were designed 
+using Indicia to match the paper forms used in the field to ensure that the 
+input was as intuitive as possible.
 
 .. image:: ../images/screenshots/websites/ofs-pollinator-input.png
   :width: 600px
   :alt: Inputting pollinator survey records for Open Farm Sunday
 
-iRecord
--------
+The Spotter Sheet form was intended to provide an opportunity for the public
+to engage with bioligical recording who had not been involved before. 
 
-`iRecord <http://www.brc.ac.uk/irecord>`_ is a general recording site for the 
-United Kingdom, managed and hosted by `BRC <http://www.brc.ac.uk>`_. 
+.. todo::
 
-iRecord provides an expert verification portal not only for 
-records collected on iRecord itself but any other websites sharing the BRC
-Indicia warehouse hosting facilities that opt in via Indicia's data sharing
-agreement facilities.
-
-iRecord used Instant Indicia as a starting point for the website build with a 
-selection of configured prebuilt forms for both data entry, reporting and 
-data management. It makes use of the Easy Login and Forms and Surveys Library
-features to synchronise logins across websites and to manage a collection of 
-data input forms respectively. As well as allowing recording of miscellaneous 
-records, iRecord provides a data entry platform for organisations to host 
-surveys on that don't have their own hosting capacity. For example, iRecord is 
-being used to host the Garden Bioblitz event which was trialled in 2012 and will
-be launched to the public in 2013.
-
-.. image:: ../images/screenshots/websites/irecord-gbb-survey-summary.jpg
-  :width: 600px
-  :alt: Summary of the Garden Biolitz results.
+  image for Spotter Sheet
 
 North East Cetacean Project
 ---------------------------
 
+.. todo::
+  
+  check web address of link
 
-Orthoptera
-----------
+`The North East Cetacean Project <http://www.northeastcetaceans.org>`_ was one 
+of the first surveys launched using Indicia and collects ad-hoc cetacean 
+sigthings in the Northumberland region of England. The data input form includes
+identification information for each species to help with record accuracy.
 
-British Dragonfly Society
--------------------------
+.. todo::
+ 
+  NECP image
 
 NatureSpot
 ----------
@@ -115,17 +116,31 @@ include content and site photos created using Drupal alongside recent records
 and record photos from Indicia, using the site's boundary polygon to 
 automatically calculate which records to include on the wild place's page.
 
-Biomonitoring Luxembourg
-------------------------
+iRecord
+-------
 
-National Moth Night
--------------------
+`iRecord <http://www.brc.ac.uk/irecord>`_ is a general recording site for the 
+United Kingdom, managed and hosted by `BRC <http://www.brc.ac.uk>`_. 
 
-Recording Invasive Species Counts
----------------------------------
+iRecord provides an expert verification portal not only for 
+records collected on iRecord itself but any other websites sharing the BRC
+Indicia warehouse hosting facilities that opt in via Indicia's data sharing
+agreement facilities.
 
-Wildflowers Count
------------------
+iRecord used Instant Indicia as a starting point for the website build with a 
+selection of configured prebuilt forms for both data entry, reporting and 
+data management. It makes use of the Easy Login and Forms and Surveys Library
+features to synchronise logins across websites and to manage a collection of 
+data input forms respectively. As well as allowing recording of miscellaneous 
+records, iRecord provides a data entry platform for organisations to host 
+surveys on that don't have their own hosting capacity. For example, iRecord is 
+being used to host the Garden Bioblitz event which was trialled in 2012 and will
+be launched to the public in 2013.
+
+.. image:: ../images/screenshots/websites/irecord-gbb-survey-summary.jpg
+  :width: 600px
+  :alt: Summary of the Garden Biolitz results.
+
 
 SPIPOLL
 -------
@@ -143,3 +158,19 @@ Rather than capture ad-hoc records, the value of Spipoll data are increased by
 following a set methodology which defines the information gathered, time spent
 at each flower and method of collecting records. Spipoll also includes 
 integration with a Bayesian key to help identify the pollinating insects.
+
+Biomonitoring Luxembourg
+------------------------
+
+As well as these generic recording solutions, it is also possible to use 
+Indicia to develop highly specialised forms matched to particular survey 
+methodologies, such as this form for long term grid based monitoring of 
+butterflies in Luxembourg:
+
+.. todo:: 
+
+  image
+
+Developing specialist solutions such as this does require some code to be 
+written, but they are much easier to develop using the Indicia toolkit as a 
+starting point than if you started from scratch.

@@ -1,6 +1,8 @@
 Contents
 ########
 
+.. todolist::
+
 .. toctree::
 
   index
