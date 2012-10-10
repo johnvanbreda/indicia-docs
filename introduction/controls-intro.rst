@@ -1,37 +1,111 @@
-Screenshot Gallery
-##################
+What sort of things will Indicia give me?
+-----------------------------------------
+
+Ok, we know that Indicia is about building online biological recording websites
+using a suite of tools services and components. But what sorts of things might 
+I expect to get? This section illustrates just a few examples but don't forget 
+that Indicia is open source and fully extensible so you can create your own 
+controls and other facilities for just the extra bits you need if you have 
+access to a programmer.
 
 Data entry
-----------
+==========
+
+Inputting a species in Indicia can be via a variety of techniques including
+picking from drop-down selection boxes, checkboxes or inputting into a text
+box. For the latter it is commonplace to provide a drop-down list of possible
+selections.
+
+.. image:: ../images/controls/species_autocomplete.png
+  :width: 250pt
+  :alt: Selecting a species using the species_autocomplete control.
+
+Note that the recorder is informed of the species group they are picking from
+as well as the preferred name of the species, so the chances of mistakes when
+selecting "dangerous names" are drastically reduced. The species search is also
+clever enough to tolerate differences in punctuation or spacing in the names, 
+e.g. is it a 7-spot or a 7 spot ladybird? The species autocomplete control in 
+this screenshot has a handy lock icon after it which holds the value
+for the next time you use this input form - very useful if inputting a list
+of sightings of a single species at different places or on a single date. The 
+lock option can of course be configured to be available for any control you 
+feel it is appropriate for (the date or grid reference are both good examples).
+
+Entering other types of information about each record is supported through a 
+library of controls. Here the date picker ensures that the recorder always
+inputs a valid date, though of course it is configurable to allow vague date
+entry if you prefer. 352px
+
+.. image:: ../images/controls/date_picker.png
+  :width: 250pt
+  :alt: Selecting a species using the species_autocomplete control.
+
+When you use an Indicia provided data input control you get a range of 
+functionality options straight out of the box that you would otherwise have to 
+configure for yourself. These include:
+
+* Saving the value to the database is handled for you
+* Loading the value back from the database for editing is handled for you
+* The ability to lock the value so it is remembered next time you use the form
+* Validation rules are applied to the control and messages displayed to the user 
+  as approriate
+
+As an example of the latter, here's the above date_picker control having tried
+to save the record without filling it in:
+
+.. image:: ../images/controls/date_picker-required.png
+  :width: 250pt
+  :alt: Selecting a species using the species_autocomplete control.
+
+Species entry in Indicia can be via any method that is appropriate to the survey, 
+but in many cases when entry of multiple records is required the species 
+checklist control can be configured to allow appropriate and rapid data entry 
+that suits the survey's needs. Here the grid is configured to allow basic record
+data but the attributes available for input in the grid can be configured as 
+appropriate to the survey methodology and/or species group being recorded.
+
+.. todo::
+
+  species_checklist image
+
+The species_checklist grid control is highly configurable, for example it can 
+be configured to allow ticking off of species from a preset list rather than 
+to input an arbitrary list of species. 
+
+.. todo::
+
+  species_checklist image from wildflowers count
+
+The grid also allows upload of photos for each record. Resizing of images is 
+handled from within the browser meaning that photo upload times are drastically 
+reduced, making it feasible to upload substantial lists of records and photos 
+into Indicia based online recording forms.
 
 .. image:: ../images/screenshots/websites/irecord-species-grid.png
   :width: 600px
   :alt: Inputting a list of records and photos
 
-Data entry in Indicia can be via any method that is appropriate to the survey, 
-but in many cases the species checklist control can be configured to allow 
-appropriate and rapid data entry that suits the survey's needs. Here the grid
-is configured to allow basic record data plus the upload of photos for each 
-record. The grid handles resizing of images from within the browser meaning that
-photo upload times are drastically reduced.
-
-.. image:: ../images/screenshots/websites/irecord-map-picker.jpg
-  :width: 600px
-  :alt: Selecting the grid square for the records
-
 Entering a grid reference for the records via a click on a map ensures that 
 transcription errors in grid references are a thing of the past.
 
-Entering a date
+.. image:: ../images/controls/map_picker.jpg
+  :width: 600px
+  :alt: Selecting the grid square for the records
 
-Picking a species
+Grid references can of course be input directly into the text box when 
+available. Rather than force all records to be linked to a site even for ad-hoc
+records, the link between a record and a site is optional in Indicia and 
+every record has its own unique grid reference, reducing the chance that a 
+record will be mistakenly recorded at the centre point of the site.
 
-BDS showing species identification notes
+.. todo::
+
+  BDS showing species identification notes
 
 
 
 Reporting
----------
+=========
 
 .. image:: ../images/screenshots/websites/irecord-explore.png
   :width: 600px
@@ -80,3 +154,17 @@ and/or species group to show photos for.
 .. todo::
 
   Map report showing polygon drawing and buffering features
+
+Data Management
+===============
+
+.. todo::
+
+  Fill in the data management section, e.g. a couple of warehouse screen shots
+
+Web-Services
+============
+
+.. todo::
+
+  Fill in the web services section

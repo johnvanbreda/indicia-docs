@@ -43,55 +43,49 @@ user interface available in German, French, English and Luxembourgish!
 Open Farm Sunday
 ----------------
 
-.. todo:: 
-
-  Check name used Spotter Sheet
-
 During Open Farm Sunday 2012, farm visitors were offered the chance to 
-participate in a survey of potential pollinators or a simple "spotter sheet". 
-The former was designed in collaboration with scientists at the `Centre for 
-Ecology & Hydrology <http://www.ceh.ac.uk>`_ to ensure that the resultant data 
-could be used in subsequent analysis despite having been collected by unknown
-members of the public. The survey's results have been compared to results
-collected by trained volunteers during the event to provide useful data on the 
-accuracy of citizen science records. The online recording forms were designed 
-using Indicia to match the paper forms used in the field to ensure that the 
-input was as intuitive as possible.
+participate in a survey of potential pollinators or to have a go at a simple 
+"Discover Pollinators" checklist. The former was designed in collaboration with 
+scientists at the `Centre for Ecology & Hydrology <http://www.ceh.ac.uk>`_ to 
+ensure that the resultant data could be used in subsequent analysis despite 
+having been collected by unknown members of the public. The survey's results 
+have been compared to results collected by trained volunteers during the event 
+to provide useful data on the accuracy of citizen science records. The online 
+recording forms were designed using Indicia to match the paper forms used in the
+field to ensure that the input was as intuitive as possible.
 
 .. image:: ../images/screenshots/websites/ofs-pollinator-input.png
   :width: 600px
   :alt: Inputting pollinator survey records for Open Farm Sunday
 
-The Spotter Sheet form was intended to provide an opportunity for the public
-to engage with bioligical recording who had not been involved before. 
+The Discover Pollinators form was intended to provide an opportunity for the 
+public to engage with biological recording who had not been involved before. 
+Again, the web version of the form was carefully matched to the paper version in
+the field to ensure familiarity.
 
-.. todo::
-
-  image for Spotter Sheet
+.. image:: ../images/screenshots/websites/ofs-discover-pollinators.png
+  :width: 600px
+  :alt: Inputting Discover Pollinators records for Open Farm Sunday
 
 North East Cetacean Project
 ---------------------------
 
-.. todo::
-  
-  check web address of link
-
-`The North East Cetacean Project <http://www.northeastcetaceans.org>`_ was one 
+`The North East Cetacean Project <http://www.northeastcetaceans.org.uk>`_ was one 
 of the first surveys launched using Indicia and collects ad-hoc cetacean 
 sigthings in the Northumberland region of England. The data input form includes
 identification information for each species to help with record accuracy.
 
-.. todo::
- 
-  NECP image
+.. image:: ../images/screenshots/websites/necp-input-species.png
+  :width: 600px
+  :alt: Selecting a cetacean species
 
 NatureSpot
 ----------
 
-It’s also possible to use Indicia to build recording sites which are aimed at 
+It's also possible to use Indicia to build recording sites which are aimed at 
 enthusiasts, perhaps recording across a much wider taxonomic range or even 
 recording any taxon at all. An example of this is the 
-`NatureSpot <http://www.naturespot.org.uk>`_site which allows naturalists in 
+`NatureSpot <http://www.naturespot.org.uk>`_ site which allows naturalists in 
 Leicestershire and Rutland to record all their sightings and photographs. This 
 site supports entry of lists of any species at a particular date and time along
 with photo upload, along with online data management and verification facilities.

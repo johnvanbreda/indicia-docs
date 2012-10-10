@@ -6,7 +6,7 @@ Introduction
   overview
   site-gallery
   faqs
-  screenshots
+  controls-intro
   indicia-components
   instant-indicia
   technology-primer

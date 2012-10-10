@@ -4,6 +4,7 @@ Contents
 .. todolist::
 
 .. toctree::
+  :maxdepth: 2
 
   index
   introduction/index

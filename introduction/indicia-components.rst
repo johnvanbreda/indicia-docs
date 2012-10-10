@@ -5,7 +5,7 @@ In order to understand how to setup your own online recording using Indicia you
 first need to understand the key components that go together to build the 
 system.
 
-The main “guts” of Indicia are provided in the warehouse component. The 
+The main “guts” of Indicia are provided in the warehouse. The 
 warehouse’s primary purpose is to store the records, including observations, 
 species data, sites, people and lists of terms used in the data. When a recorder
 uses the online recording facilities on an Indicia site, they do not need to be
