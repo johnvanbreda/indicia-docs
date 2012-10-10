@@ -64,17 +64,17 @@ that suits the survey's needs. Here the grid is configured to allow basic record
 data but the attributes available for input in the grid can be configured as 
 appropriate to the survey methodology and/or species group being recorded.
 
-.. todo::
-
-  species_checklist image
+.. image:: ../images/controls/species_checklist.png
+  :alt: Inputting a list of species at a site
 
 The species_checklist grid control is highly configurable, for example it can 
 be configured to allow ticking off of species from a preset list rather than 
-to input an arbitrary list of species. 
+to input an arbitrary list of species. In this instance recorders tick off 
+species against a preset list of wildflowers and can specify which part of the
+survey plot the species was found on.
 
-.. todo::
-
-  species_checklist image from wildflowers count
+.. image:: ../images/controls/species_checklist-wildflowers.png
+  :alt: Inputting a list of species by checking off from a preset list
 
 The grid also allows upload of photos for each record. Resizing of images is 
 handled from within the browser meaning that photo upload times are drastically 
@@ -107,9 +107,54 @@ record will be mistakenly recorded at the centre point of the site.
 Reporting
 =========
 
-.. image:: ../images/screenshots/websites/irecord-explore.png
+Many Indicia reporting requirements are met by the flexible report grid control
+which is designed to output tabular data and supports filtering and sorting out
+of the box. Here the grid has been configured to include thumbnails of the 
+photos associated with each record.
+
+.. image:: ../images/screenshots/websites/irecord-grid-thumbnails.png
   :width: 600px
-  :alt: The iRecord Explore page.
+  :alt: Grid including thumbnails of the record photos
+
+Clicking on a photo thumbnail in any grid zooms the photo for a closer look.
+
+.. image:: ../images/screenshots/websites/irecord-photo-lightbox.png
+  :width: 600px
+  :alt: Zoomed in photo of *Bombus pascuorum*
+
+The report grid control is flexible enough to be reconfigured as a photo
+gallery, here showing a simple parameters form for selection of the date range
+and/or species group to show photos for.
+
+.. image:: ../images/screenshots/websites/irecord-photo-gallery.png
+  :width: 600px
+  :alt: Photo gallery
+
+Indicia's reporting capabilities also allow you to output report data onto maps
+or charts. The following map shows a buffered report for records in a 3km zone 
+around the M1 corridor, with records shown at their original precision including
+a couple of rather imprecise 10km records:
+
+.. image:: ../images/controls/map_report-buffer.png
+  :width: 600px
+  :alt: Map showing a buffered report for an area 3km around the M1 corridor
+
+Maps can show aggregated information as well as simple records. Here a layer of
+British vice counties is combined with the records data to produce a density map
+of species on iRecord. Obviously this is more reflective of recording effort at
+this stage rather than any real indication of species diversity.
+
+.. image:: ../images/screenshots/websites/irecord-species-density-map.png
+  :width: 600px
+  :alt: The iRecord summary report for species density.
+
+Charting with line, bar and pie charts is also supported for any suitable report
+data. The following pie chart shows the species groups I've been recording this 
+year with the pie size indicating the number of species for each group.
+
+.. image:: ../images/controls/report_chart-pie.png
+  :width: 600px
+  :alt: Pie chart of species recorded by species group
 
 Indicia allows synchronisation of the data between multiple reports, charts or 
 maps on a single page. For example you can build a page showing a map of records
@@ -119,41 +164,9 @@ a map with a simple table of the records shown on the map. The grid can be
 filtered and sorted with the changes kept in synch with the map display. This
 example is from the iRecord Explore facility.
 
-.. image:: ../images/screenshots/websites/irecord-species-density-map.png
+.. image:: ../images/screenshots/websites/irecord-explore.png
   :width: 600px
-  :alt: The iRecord summary report for species density.
-
-Maps can show aggregated information as well as simple records. Here a layer of
-British vice counties is combined with the records data to produce a density map
-of species on iRecord. Obviously this is more reflective of recording effort at
-this stage rather than any real indication of species diversity.
-
-.. image:: ../images/screenshots/websites/irecord-grid-thumbnails.png
-  :width: 600px
-  :alt: Grid including thumbnails of the record photos
-
-Many Indicia reporting requirements are met by the flexible report grid control.
-Here the grid has been configured to include thumbnails of the photos associated
-with each record.
-
-.. image:: ../images/screenshots/websites/irecord-photo-lightbox.png
-  :width: 600px
-  :alt: Zoomed in photo of *Bombus pascuorum*
-
-Clicking on a photo thumbnail in any grid zooms the photo for a closer look.
-
-.. image:: ../images/screenshots/websites/irecord-photo-gallery.png
-  :width: 600px
-  :alt: Photo gallery
-
-The report grid control is flexible enough to be reconfigured as a photo
-gallery, here showing a simple parameters form for selection of the date range
-and/or species group to show photos for.
-
-
-.. todo::
-
-  Map report showing polygon drawing and buffering features
+  :alt: The iRecord Explore page.
 
 Data Management
 ===============

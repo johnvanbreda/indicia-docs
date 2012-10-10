@@ -22,6 +22,12 @@ Building an online recording website
 
 Learn how to go about :doc:`building a site using Indicia </site-building/building-your-site>`.
 
+Developing Indicia
+------------------
+
+:doc:`Information for developers of Indicia</developing/index>` including report 
+writing, changes to the core and writing warehouse modules.
+
 Getting Help
 ------------
 
