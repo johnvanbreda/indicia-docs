@@ -1,5 +1,5 @@
 Getting help
-============
+------------
 
 If you need help on using Indicia or just have a few questions to ask you can
 

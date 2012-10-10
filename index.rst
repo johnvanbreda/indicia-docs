@@ -10,7 +10,7 @@ Introduction
 ------------
 
 If you are still deciding whether to use Indicia or just want an overview of the 
-project, :doc:`start here </introduction/introduction>`.
+project, :doc:`start here </introduction/index>`.
 
 Administration
 --------------

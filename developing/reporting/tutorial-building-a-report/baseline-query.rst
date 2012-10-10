@@ -27,15 +27,17 @@ The following query returns all records added to the system in this month:
   appropriate. Not only do these tables make your queries simpler to write, but 
   they also improve the performance of the query considerably. 
 
-.. tip::
+Whilst not being a very impressive query in its own right, let's take a look at 
+how to turn this into an Indicia report, then to extend the capabilities of the 
+report to make it quite a bit more powerful. 
 
-  Secondly, the query uses a bit of PostgreSQL specific syntax. It provides a 
+.. note::
+
+  The query uses a bit of PostgreSQL specific syntax. It provides a 
   piece of text ``'1 month'`` followed by a double colon, which tells the 
   database that we want to *cast* the text as another type of data, that is, we 
   want to convert it. By converting the text into an *interval* PostgreSQL is 
   able to understand that this text actually means an interval of time and to be 
   able to use it as such. 
 
-Whilst not being a very impressive query in its own right, let's take a look at 
-how to turn this into an Indicia report, then to extend the capabilities of the 
-report to make it quite a bit more powerful. 
+
