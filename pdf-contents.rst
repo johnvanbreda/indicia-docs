@@ -9,4 +9,5 @@ Contents
   site-building/building-your-site
   administrating/index
   contributing/index
+  developing/index
   help
