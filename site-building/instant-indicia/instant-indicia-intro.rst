@@ -1,5 +1,5 @@
 Instant Indicia
-###############
+===============
 
 Introduction
 ------------

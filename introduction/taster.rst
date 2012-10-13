@@ -1,5 +1,6 @@
-What sort of things will Indicia give me?
------------------------------------------
+******
+Taster
+******
 
 Ok, we know that Indicia is about building online biological recording websites
 using a suite of tools services and components. But what sorts of things might 
@@ -101,8 +102,6 @@ record will be mistakenly recorded at the centre point of the site.
 .. todo::
 
   BDS showing species identification notes
-
-
 
 Reporting
 =========

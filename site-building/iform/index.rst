@@ -1,5 +1,5 @@
 The Indicia Forms module
-------------------------
+========================
 
 .. toctree::
   :hidden:

@@ -1,3 +1,4 @@
+############
 Introduction
 ############
 
@@ -6,7 +7,7 @@ Introduction
   overview
   site-gallery
   faqs
-  controls-intro
+  taster
   indicia-components
   instant-indicia
   technology-primer

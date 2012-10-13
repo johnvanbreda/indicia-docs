@@ -1,5 +1,6 @@
+********
 Overview
---------
+********
 
 What exactly is Indicia?
 ========================
@@ -19,10 +20,6 @@ What exactly is Indicia?
   * Build online systems to capture, map, report and verify wildlife records
   * Complete flexibility
   * Free and open source
-
-.. todo::
-
-  Fix sidebar positioning on PDF
 
 Indicia provides the pieces you need to build online biological recording 
 websites. A toolkit that simplifies the construction of websites, Indicia 

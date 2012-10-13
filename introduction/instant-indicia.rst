@@ -1,5 +1,6 @@
+***************
 Instant Indicia
-###############
+***************
 
 Instant Indicia is specifically an extension of the Drupal CMS that includes the
 following:

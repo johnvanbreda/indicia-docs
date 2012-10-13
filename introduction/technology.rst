@@ -1,5 +1,6 @@
+*****************
 Technical Choices
------------------
+*****************
 
 When selecting the technology used for each aspect of Indicia, we have given 
 preference to

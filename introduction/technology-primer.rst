@@ -1,5 +1,6 @@
+*****************
 Technology Primer
------------------
+*****************
 
 Before starting with Instant Indicia, it’s worth taking a few moments for a 
 quick primer of the technologies involved in a setup of Instant Indicia. 

@@ -1,5 +1,6 @@
-Administer and maintain Indicia
-===============================
+#####################################
+Administering and maintaining Indicia
+#####################################
 
 .. toctree::
 

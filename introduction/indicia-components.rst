@@ -1,5 +1,6 @@
+******************
 Indicia Components
-##################
+******************
 
 In order to understand how to setup your own online recording using Indicia you 
 first need to understand the key components that go together to build the 

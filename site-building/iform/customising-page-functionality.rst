@@ -1,5 +1,5 @@
 Customising pages built using prebuilt forms in Drupal
-######################################################
+------------------------------------------------------
 
 There are many things you can do to customise the behaviour and display of a 
 page built using the Indicia forms module's prebuilt form library, without 
@@ -11,7 +11,7 @@ location and which have a file name adhering to the correct pattern so that the
 Indicia forms module can find and use them.
 
 Add your own CSS stylesheets
-----------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 To include your own CSS files, you need to create a .css file and place it in 
 the folder sites\all\modules\iform\client_helpers\prebuilt_forms\css. The file 
@@ -26,7 +26,7 @@ called verification_1.css in this location which is used for all instances of
 the verification_1.php form.
 
 Adding your own JavaScript
---------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 To include your own JavaScript files, you need to create a .js file and place 
 it in the folder sites\all\modules\iform\client_helpers\prebuilt_forms\js. The 
@@ -74,7 +74,7 @@ any post-setup changes or attach event handlers and so forth. For example:
   }
 
 Overridding the HTML templates used to output the input controls
-----------------------------------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The data_entry_helper declares a global array of templates called 
 $indicia_templates. To change any of the template values for an instance of a 
@@ -105,7 +105,7 @@ extension. This provides a template override file which runs for all instances
 of a particular form.
 
 Providing your own language files
----------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Language files for each prebuilt form are placed in the folder 
 sites\all\modules\iform\client_helpers\prebuilt_forms\lang and are called 
@@ -157,7 +157,7 @@ English place tab title, even though the form developer had already provided a
 suitable string. Drupal does not do this.
 
 Providing custom validation code
---------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 When the form submission has been built, ready to send to the warehouse, it is 
 possible to run custom PHP to validation the form POST data and return an array

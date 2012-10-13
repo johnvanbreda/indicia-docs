@@ -1,5 +1,6 @@
+*********************************
 Example sites built using Indicia
-#################################
+*********************************
 
 The best way to get a feel for what Indicia can do is to take a look at some 
 example websites built using Indicia. This list of sites is not comprehensive
@@ -11,7 +12,7 @@ Normally the species involved will be very easily identified, or at least some
 form of identification assistance is provided.
 
 BBC Breathing Places Ladybird Survey
-------------------------------------
+====================================
 
 One example of this type of site is the 
 `BBC Breathing Places Ladybird Survey <http://www.bbc.co.uk/breathingplaces/ladybird-survey>`_:
@@ -26,7 +27,7 @@ provided ensures that many useful records are gathered. There is even a sibling
 ladybird parasite survey also on the BBC Breathing Places site!
 
 Maach Mat!
-----------
+==========
 
 Another example of this sort of public participation survey is the 
 `Maach Mat (Take Part) survey <http://data.mnhn.lu/en/maach_mat>`_ run by the
@@ -41,7 +42,7 @@ user interface available in German, French, English and Luxembourgish!
 
 
 Open Farm Sunday
-----------------
+================
 
 During Open Farm Sunday 2012, farm visitors were offered the chance to 
 participate in a survey of potential pollinators or to have a go at a simple 
@@ -68,7 +69,7 @@ the field to ensure familiarity.
   :alt: Inputting Discover Pollinators records for Open Farm Sunday
 
 North East Cetacean Project
----------------------------
+===========================
 
 `The North East Cetacean Project <http://www.northeastcetaceans.org.uk>`_ was one 
 of the first surveys launched using Indicia and collects ad-hoc cetacean 
@@ -80,7 +81,7 @@ identification information for each species to help with record accuracy.
   :alt: Selecting a cetacean species
 
 NatureSpot
-----------
+==========
 
 It's also possible to use Indicia to build recording sites which are aimed at 
 enthusiasts, perhaps recording across a much wider taxonomic range or even 
@@ -111,7 +112,7 @@ and record photos from Indicia, using the site's boundary polygon to
 automatically calculate which records to include on the wild place's page.
 
 iRecord
--------
+=======
 
 `iRecord <http://www.brc.ac.uk/irecord>`_ is a general recording site for the 
 United Kingdom, managed and hosted by `BRC <http://www.brc.ac.uk>`_. 
@@ -137,7 +138,7 @@ be launched to the public in 2013.
 
 
 SPIPOLL
--------
+=======
 
 Engaging citizen scientists across France, `SPIPOLL <http://www.spipoll.org>`_ 
 involves recording and photographing pollinators visiting flowers and includes 
@@ -154,7 +155,7 @@ at each flower and method of collecting records. Spipoll also includes
 integration with a Bayesian key to help identify the pollinating insects.
 
 Biomonitoring Luxembourg
-------------------------
+========================
 
 As well as these generic recording solutions, it is also possible to use 
 Indicia to develop highly specialised forms matched to particular survey 

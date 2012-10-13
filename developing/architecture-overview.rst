@@ -1,5 +1,6 @@
+*********************
 Architecture Overview
-=====================
+*********************
 
 If you need a brief introduction to the technical architecture of Indicia, then 
 read on. 
@@ -26,7 +27,7 @@ support Indicia based online recording.
   :alt: A single warehouse can serve multiple client websites
 
 Warehouse architecture
-^^^^^^^^^^^^^^^^^^^^^^
+======================
 
 The following diagram illustrates the basic architecture of the warehouse.
 
@@ -35,14 +36,10 @@ The following diagram illustrates the basic architecture of the warehouse.
   :width: 100%
   
 There are quite a few acronyms and other bits of jargon but don't worry, we'll 
-work through each of these in turn. 
-
-.. todo:: 
-
-  Check heading for sub-sub-sections below.
+work through each of these in turn.
 
 PostgreSQL
-""""""""""
+----------
 
 PostgreSQL is a relational database management system. In essence, a relational 
 database is a collection of tables of data, each of which may relate to rows 
@@ -64,7 +61,7 @@ based on:
 * It is actively being developed and continually improving.
 
 PostGIS
-"""""""
+-------
 
 PostGIS adds support for geographical information to PostgreSQL. A database that
 supports geographic data is often called "spatially enabled". Not only can 
@@ -80,7 +77,7 @@ the geographic objects it stores. For example, PostGIS can:
   buffered.
 
 Warehouse MVC code
-""""""""""""""""""
+------------------
 
 .. warning::
 
@@ -120,7 +117,7 @@ and tabs to the existing warehouse user interface.
   flocks, family relationships and identifying marks such as rings in birds.
 
 Warehouse UI
-""""""""""""
+------------
 
 The warehouse user interface code consists of a series of Kohana views. 
 
@@ -130,10 +127,10 @@ The warehouse user interface code consists of a series of Kohana views.
   the client helpers.
 
 Web services
-""""""""""""
+------------
 
 Extension modules
-"""""""""""""""""
+-----------------
 
 GeoServer
-"""""""""
+---------
