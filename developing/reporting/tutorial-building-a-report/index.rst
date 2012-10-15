@@ -1,5 +1,5 @@
-Writing a report tutorial
-#########################
+Tutorial: Writing a report
+##########################
 
 .. sidebar:: Prerequisites
   
