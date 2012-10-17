@@ -34,7 +34,8 @@ following script I've generated using pgAdmin, which:
   -- ALTER TABLE indicia.taxon_groups DROP COLUMN website_id;
 
   ALTER TABLE indicia.taxon_groups ADD COLUMN website_id integer;
-  COMMENT ON COLUMN indicia.taxon_groups.website_id IS 'Identifies the website that owns this taxon group, if any. Foreign key to the websites table.';
+  COMMENT ON COLUMN indicia.taxon_groups.website_id 
+    IS 'Identifies the website that owns this taxon group, if any. Foreign key to the websites table.';
 
   -- Foreign Key: indicia.fk_taxon_groups_websites
 
